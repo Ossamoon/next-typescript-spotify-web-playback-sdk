@@ -1,5 +1,5 @@
 # Spotify Web Playback SDK Example by Next.js and TypeScript
-This is an example app that is rewritten from the official [Spotify Web Playback SDK Javascript Tutorial](https://github.com/spotify/spotify-web-playback-sdk-example) by Next.js and Typescript.
+This is an example app that is rewritten from the official [Spotify Web Playback SDK Javascript Tutorial](https://github.com/spotify/spotify-web-playback-sdk-example) with **Next.js** and **Typescript**.
 
 ## Using your own credentials
 You will need to register your app and get your own credentials from the
@@ -39,3 +39,6 @@ npm run dev
 ```
 
 The React application will start on `http://localhost:3000`
+
+## Related articles
+- [Next.js + TypeScript で Spotify Web Playback SDK の公式サンプルを書き直してみた](https://zenn.dev/ossamoon/articles/ef20bf19284fd8)
