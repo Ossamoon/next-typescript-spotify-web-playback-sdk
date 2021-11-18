@@ -1,4 +1,4 @@
-# Spotify Web Playback SDK Example App by Next.js and TypeScript
+# Spotify Web Playback SDK Example by Next.js and TypeScript
 This is an example app that is rewritten from the official [Spotify Web Playback SDK Javascript Tutorial](https://github.com/spotify/spotify-web-playback-sdk-example) by Next.js and Typescript.
 
 ## Using your own credentials
