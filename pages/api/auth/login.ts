@@ -37,7 +37,6 @@ const login = (req: NextApiRequest, res: NextApiResponse) => {
     "https://accounts.spotify.com/authorize/?" +
       auth_query_parameters.toString()
   );
-  console.log("redirected to https://accounts.spotify.com/authorize/?");
 };
 
 export default login;
