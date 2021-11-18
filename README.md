@@ -41,4 +41,4 @@ npm run dev
 The React application will start on `http://localhost:3000`
 
 ## Related articles
-- ["Next.js + TypeScript で Spotify Web Playback SDK の公式サンプルを書き直してみた"](https://zenn.dev/ossamoon/articles/ef20bf19284fd8)(zenn.dev)
+- "[Next.js + TypeScript で Spotify Web Playback SDK の公式サンプルを書き直してみた](https://zenn.dev/ossamoon/articles/ef20bf19284fd8)"(zenn.dev)
